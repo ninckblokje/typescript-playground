@@ -4,8 +4,8 @@
   "description": "Just a playground for Typescript in Visual Studio Code (with a devcontainer).",
   "main": "app.js",
   "scripts": {
-    "compile": "tsc app.ts",
-    "start": "lite-server"
+    "compile": "tsc",
+    "watch": "tsc --watch"
   },
   "author": "ninckblokje",
   "license": "BSD-2-Clause",
