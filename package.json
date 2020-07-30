@@ -9,7 +9,5 @@
   },
   "author": "ninckblokje",
   "license": "BSD-2-Clause",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+  "devDependencies": {}
 }
