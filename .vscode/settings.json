@@ -1,0 +1,5 @@
+{
+    "remote.extensionKind": {
+        "firefox-devtools.vscode-firefox-debug": [ "ui" ]
+    }
+}

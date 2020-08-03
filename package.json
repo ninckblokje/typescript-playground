@@ -5,9 +5,12 @@
   "main": "app.js",
   "scripts": {
     "compile": "tsc",
+    "serve": "lite-server",
     "watch": "tsc --watch"
   },
   "author": "ninckblokje",
   "license": "BSD-2-Clause",
-  "devDependencies": {}
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
